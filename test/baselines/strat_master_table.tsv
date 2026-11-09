@@ -1,0 +1,95 @@
+node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel
+1	tip	8	0.9665748366	27		0	FALSE	P_hawaiiensis_WaikamoiL1	0	0	0	0	0	orig_tip	1	orig_tip	8	0.9665748366	27		0	FALSE	P_hawaiiensis_WaikamoiL1
+2	tip	9	0.9665748366	27		0	FALSE	P_mauiensis_Eke	0	0	0	0	0	orig_tip	2	orig_tip	9	0.9665748366	27		0	FALSE	P_mauiensis_Eke
+3	tip	11	1.231108298	28		0	FALSE	P_fauriei2	0	0	0	0	0	orig_tip	3	orig_tip	11	1.231108298	28		0	FALSE	P_fauriei2
+4	tip	12	1.231108298	28		0	FALSE	P_hathewayi_1	0	0	0	0	0	orig_tip	4	orig_tip	12	1.231108298	28		0	FALSE	P_hathewayi_1
+5	tip	14	1.851022399	29		0	FALSE	P_kaduana_PuuKukuiAS	0	0	0	0	0	orig_tip	5	orig_tip	14	1.851022399	29		0	FALSE	P_kaduana_PuuKukuiAS
+6	tip	15	1.851022399	29		0	FALSE	P_mauiensis_PepeAS	0	0	0	0	0	orig_tip	6	orig_tip	15	1.851022399	29		0	FALSE	P_mauiensis_PepeAS
+7	tip	16	2.186649784	24		0	FALSE	P_kaduana_HawaiiLoa	0	0	0	0	0	orig_tip	7	orig_tip	16	2.186649784	24		0	FALSE	P_kaduana_HawaiiLoa
+8	tip	18	1.132253042	30		0	FALSE	P_greenwelliae07	0	0	0	0	0	orig_tip	8	orig_tip	18	1.132253042	30		0	FALSE	P_greenwelliae07
+9	tip	19	1.132253042	30		0	FALSE	P_greenwelliae907	0	0	0	0	0	orig_tip	9	orig_tip	19	1.132253042	30		0	FALSE	P_greenwelliae907
+10	tip	24	1.99490084	34		0	FALSE	P_mariniana_MauiNui	0	0	0	0	0	orig_tip	10	orig_tip	24	1.99490084	34		0	FALSE	P_mariniana_MauiNui
+11	tip	25	1.99490084	34		0	FALSE	P_hawaiiensis_Makaopuhi	0	0	0	0	0	orig_tip	11	orig_tip	25	1.99490084	34		0	FALSE	P_hawaiiensis_Makaopuhi
+12	tip	26	2.72772882	33		0	FALSE	P_mariniana_Oahu	0	0	0	0	0	orig_tip	12	orig_tip	26	2.72772882	33		0	FALSE	P_mariniana_Oahu
+13	tip	27	2.985143991	32		0	FALSE	P_mariniana_Kokee2	0	0	0	0	0	orig_tip	13	orig_tip	27	2.985143991	32		0	FALSE	P_mariniana_Kokee2
+14	tip	28	3.445252477	31		0	FALSE	P_wawraeDL7428	0	0	0	0	0	orig_tip	14	orig_tip	28	3.445252477	31		0	FALSE	P_wawraeDL7428
+15	tip	30	2.480190277	35		0	FALSE	P_grandiflora_Kal2	0	0	0	0	0	orig_tip	15	orig_tip	30	2.480190277	35		0	FALSE	P_grandiflora_Kal2
+16	tip	31	2.480190277	35		0	FALSE	P_hobdyi_Kuia	0	0	0	0	0	orig_tip	16	orig_tip	31	2.480190277	35		0	FALSE	P_hobdyi_Kuia
+17	tip	34	2.364873976	37		0	FALSE	P_hexandra_K1	0	0	0	0	0	orig_tip	17	orig_tip	34	2.364873976	37		0	FALSE	P_hexandra_K1
+18	tip	35	2.364873976	37		0	FALSE	P_hexandra_M	0	0	0	0	0	orig_tip	18	orig_tip	35	2.364873976	37		0	FALSE	P_hexandra_M
+19	tip	36	2.827918756	36		0	FALSE	P_hexandra_Oahu	0	0	0	0	0	orig_tip	19	orig_tip	36	2.827918756	36		0	FALSE	P_hexandra_Oahu
+1	tip	8	0.9665748366	27		0	FALSE	P_hawaiiensis_WaikamoiL1	1	0	0.5	0.5	1	subbranch	1	tip	8	0.9665748366	27		0	FALSE	P_hawaiiensis_WaikamoiL1
+2	tip	9	0.9665748366	27		0	FALSE	P_mauiensis_Eke	1	0	0.5	0.5	2	subbranch	2	tip	9	0.9665748366	27		0	FALSE	P_mauiensis_Eke
+3	tip	11	1.231108298	28		0	FALSE	P_fauriei2	1	0	0.5	0.5	3	subbranch	3	tip	11	1.231108298	28		0	FALSE	P_fauriei2
+4	tip	12	1.231108298	28		0	FALSE	P_hathewayi_1	1	0	0.5	0.5	4	subbranch	4	tip	12	1.231108298	28		0	FALSE	P_hathewayi_1
+5	tip	14	1.851022399	29		0	FALSE	P_kaduana_PuuKukuiAS	1	0	0.5	0.5	5	subbranch	5	tip	14	1.851022399	29		0	FALSE	P_kaduana_PuuKukuiAS
+6	tip	15	1.851022399	29		0	FALSE	P_mauiensis_PepeAS	1	0	0.5	0.5	6	subbranch	6	tip	15	1.851022399	29		0	FALSE	P_mauiensis_PepeAS
+7	tip	16	2.186649784	24		0	FALSE	P_kaduana_HawaiiLoa	1	0	0.5	0.5	7	subbranch	7	tip	16	2.186649784	24		0	FALSE	P_kaduana_HawaiiLoa
+8	tip	18	1.132253042	30		0	FALSE	P_greenwelliae07	1	0	0.5	0.5	8	subbranch	8	tip	18	1.132253042	30		0	FALSE	P_greenwelliae07
+9	tip	19	1.132253042	30		0	FALSE	P_greenwelliae907	1	0	0.5	0.5	9	subbranch	9	tip	19	1.132253042	30		0	FALSE	P_greenwelliae907
+10	tip	24	1.99490084	34		0	FALSE	P_mariniana_MauiNui	1	0	0.5	0.5	10	subbranch	10	tip	24	1.99490084	34		0	FALSE	P_mariniana_MauiNui
+11	tip	25	1.99490084	34		0	FALSE	P_hawaiiensis_Makaopuhi	1	0	0.5	0.5	11	subbranch	11	tip	25	1.99490084	34		0	FALSE	P_hawaiiensis_Makaopuhi
+12	tip	26	2.72772882	33		0	FALSE	P_mariniana_Oahu	1	0	0.5	0.5	12	subbranch	12	tip	26	2.72772882	33		0	FALSE	P_mariniana_Oahu
+13	tip	27	2.985143991	32		0	FALSE	P_mariniana_Kokee2	1	0	0.5	0.5	13	subbranch	13	tip	27	2.985143991	32		0	FALSE	P_mariniana_Kokee2
+14	tip	28	3.445252477	31		0	FALSE	P_wawraeDL7428	1	0	0.5	0.5	14	subbranch	14	tip	28	3.445252477	31		0	FALSE	P_wawraeDL7428
+15	tip	30	2.480190277	35		0	FALSE	P_grandiflora_Kal2	1	0	0.5	0.5	15	subbranch	15	tip	30	2.480190277	35		0	FALSE	P_grandiflora_Kal2
+16	tip	31	2.480190277	35		0	FALSE	P_hobdyi_Kuia	1	0	0.5	0.5	16	subbranch	16	tip	31	2.480190277	35		0	FALSE	P_hobdyi_Kuia
+17	tip	34	2.364873976	37		0	FALSE	P_hexandra_K1	1	0	0.5	0.5	17	subbranch	17	tip	34	2.364873976	37		0	FALSE	P_hexandra_K1
+18	tip	35	2.364873976	37		0	FALSE	P_hexandra_M	1	0	0.5	0.5	18	subbranch	18	tip	35	2.364873976	37		0	FALSE	P_hexandra_M
+19	tip	36	2.827918756	36		0	FALSE	P_hexandra_Oahu	1	0	0.5	0.5	19	subbranch	19	tip	36	2.827918756	36		0	FALSE	P_hexandra_Oahu
+1	tip	8	0.9665748366	27		0	FALSE	P_hawaiiensis_WaikamoiL1	2	0.5	1.9	1.4	1	subtree	1	tip	3	0.4665748366	9		0	FALSE	P_hawaiiensis_WaikamoiL1
+2	tip	9	0.9665748366	27		0	FALSE	P_mauiensis_Eke	2	0.5	1.9	1.4	1	subtree	2	tip	4	0.4665748366	9		0	FALSE	P_mauiensis_Eke
+3	tip	11	1.231108298	28		0	FALSE	P_fauriei2	2	0.5	1.9	1.4	1	subtree	3	tip	6	0.731108298	10		0	FALSE	P_fauriei2
+4	tip	12	1.231108298	28		0	FALSE	P_hathewayi_1	2	0.5	1.9	1.4	1	subtree	4	tip	7	0.731108298	10		0	FALSE	P_hathewayi_1
+5	tip	14	1.851022399	29		0	FALSE	P_kaduana_PuuKukuiAS	2	0.5	1.9	1.4	1	subtree	5	tip	9	1.351022399	11		0	FALSE	P_kaduana_PuuKukuiAS
+6	tip	15	1.851022399	29		0	FALSE	P_mauiensis_PepeAS	2	0.5	1.9	1.4	1	subtree	6	tip	10	1.351022399	11		0	FALSE	P_mauiensis_PepeAS
+25	internal	5	0.3347375986	24	26;29	1.8519122	NA	inNode25	2	0.5	1.9	1.4	1	subtree	7	root	NA	0.0480878143999997	NA	8;11	1.3519122	NA	inNode7
+26	internal	6	0.1767115552	25	27;28	1.6752006	NA	inNode26	2	0.5	1.9	1.4	1	subtree	8	internal	1	0.1767115552	7	9;10	1.1752006	NA	inNode8
+27	internal	7	0.7086257935	26	1;2	0.9665748	NA	inNode27	2	0.5	1.9	1.4	1	subtree	9	internal	2	0.7086257935	8	1;2	0.4665748	NA	inNode9
+28	internal	10	0.4440923324	26	3;4	1.2311083	NA	inNode28	2	0.5	1.9	1.4	1	subtree	10	internal	5	0.4440923324	8	3;4	0.7311083	NA	inNode10
+29	internal	13	0.0008897862802	25	5;6	1.8510224	NA	inNode29	2	0.5	1.9	1.4	1	subtree	11	internal	8	0.0008897862802	7	5;6	1.3510224	NA	inNode11
+7	tip	16	2.186649784	24		0	FALSE	P_kaduana_HawaiiLoa	2	0.5	1.9	1.4	2	subbranch	7	tip	16	1.686649784	24		0	FALSE	P_kaduana_HawaiiLoa
+8	tip	18	1.132253042	30		0	FALSE	P_greenwelliae07	2	0.5	1.9	1.4	3	subtree	1	tip	1	0.632253042	3		0	FALSE	P_greenwelliae07
+9	tip	19	1.132253042	30		0	FALSE	P_greenwelliae907	2	0.5	1.9	1.4	3	subtree	2	tip	2	0.632253042	3		0	FALSE	P_greenwelliae907
+30	internal	17	1.35674612	23	8;9	1.132253	NA	inNode30	2	0.5	1.9	1.4	3	subtree	3	root	NA	0.767746958	NA	1;2	0.632253	NA	inNode3
+10	tip	24	1.99490084	34		0	FALSE	P_mariniana_MauiNui	2	0.5	1.9	1.4	4	subbranch	10	tip	24	1.49490084	34		0	FALSE	P_mariniana_MauiNui
+11	tip	25	1.99490084	34		0	FALSE	P_hawaiiensis_Makaopuhi	2	0.5	1.9	1.4	5	subbranch	11	tip	25	1.49490084	34		0	FALSE	P_hawaiiensis_Makaopuhi
+12	tip	26	2.72772882	33		0	FALSE	P_mariniana_Oahu	2	0.5	1.9	1.4	6	subbranch	12	tip	26	2.22772882	33		0	FALSE	P_mariniana_Oahu
+13	tip	27	2.985143991	32		0	FALSE	P_mariniana_Kokee2	2	0.5	1.9	1.4	7	subbranch	13	tip	27	2.485143991	32		0	FALSE	P_mariniana_Kokee2
+14	tip	28	3.445252477	31		0	FALSE	P_wawraeDL7428	2	0.5	1.9	1.4	8	subbranch	14	tip	28	2.945252477	31		0	FALSE	P_wawraeDL7428
+15	tip	30	2.480190277	35		0	FALSE	P_grandiflora_Kal2	2	0.5	1.9	1.4	9	subbranch	15	tip	30	1.980190277	35		0	FALSE	P_grandiflora_Kal2
+16	tip	31	2.480190277	35		0	FALSE	P_hobdyi_Kuia	2	0.5	1.9	1.4	10	subbranch	16	tip	31	1.980190277	35		0	FALSE	P_hobdyi_Kuia
+17	tip	34	2.364873976	37		0	FALSE	P_hexandra_K1	2	0.5	1.9	1.4	11	subbranch	17	tip	34	1.864873976	37		0	FALSE	P_hexandra_K1
+18	tip	35	2.364873976	37		0	FALSE	P_hexandra_M	2	0.5	1.9	1.4	12	subbranch	18	tip	35	1.864873976	37		0	FALSE	P_hexandra_M
+19	tip	36	2.827918756	36		0	FALSE	P_hexandra_Oahu	2	0.5	1.9	1.4	13	subbranch	19	tip	36	2.327918756	36		0	FALSE	P_hexandra_Oahu
+25	internal	5	0.3347375986	24	26;29	1.8519122	NA	inNode25	3	1.9	3.7	1.8	1	subtree	1	tip	2	0.2866497838802	5		0	FALSE	P_fauriei2,P_hathewayi_1,P_hawaiiensis_WaikamoiL1,P_kaduana_PuuKukuiAS,P_mauiensis_Eke,P_mauiensis_PepeAS
+7	tip	16	2.186649784	24		0	FALSE	P_kaduana_HawaiiLoa	3	1.9	3.7	1.8	1	subtree	2	tip	3	0.286649784	5		0	FALSE	P_kaduana_HawaiiLoa
+30	internal	17	1.35674612	23	8;9	1.132253	NA	inNode30	3	1.9	3.7	1.8	1	subtree	3	tip	4	0.588999162	4		0	FALSE	P_greenwelliae07,P_greenwelliae907
+23	internal	3	1.689170274	22	24;30	2.4889992	NA	inNode23	3	1.9	3.7	1.8	1	subtree	4	root	NA	1.211000838	NA	5;3	0.5889992	NA	inNode4
+24	internal	4	0.302349378	23	25;7	2.1866498	NA	inNode24	3	1.9	3.7	1.8	1	subtree	5	internal	1	0.302349378	4	1;2	0.2866498	NA	inNode5
+10	tip	24	1.99490084	34		0	FALSE	P_mariniana_MauiNui	3	1.9	3.7	1.8	2	subtree	1	tip	4	0.09490084	9		0	FALSE	P_mariniana_MauiNui
+11	tip	25	1.99490084	34		0	FALSE	P_hawaiiensis_Makaopuhi	3	1.9	3.7	1.8	2	subtree	2	tip	5	0.09490084	9		0	FALSE	P_hawaiiensis_Makaopuhi
+12	tip	26	2.72772882	33		0	FALSE	P_mariniana_Oahu	3	1.9	3.7	1.8	2	subtree	3	tip	6	0.82772882	8		0	FALSE	P_mariniana_Oahu
+13	tip	27	2.985143991	32		0	FALSE	P_mariniana_Kokee2	3	1.9	3.7	1.8	2	subtree	4	tip	7	1.085143991	7		0	FALSE	P_mariniana_Kokee2
+14	tip	28	3.445252477	31		0	FALSE	P_wawraeDL7428	3	1.9	3.7	1.8	2	subtree	5	tip	8	1.545252477	6		0	FALSE	P_wawraeDL7428
+31	internal	20	0.732916959	22	32;14	3.4452525	NA	inNode31	3	1.9	3.7	1.8	2	subtree	6	root	NA	0.254747523	NA	7;5	1.5452525	NA	inNode6
+32	internal	21	0.4601084855	31	33;13	2.985144	NA	inNode32	3	1.9	3.7	1.8	2	subtree	7	internal	1	0.4601084855	6	8;4	1.085144	NA	inNode7
+33	internal	22	0.2574151709	32	34;12	2.7277288	NA	inNode33	3	1.9	3.7	1.8	2	subtree	8	internal	2	0.2574151709	7	9;3	0.8277288	NA	inNode8
+34	internal	23	0.7328279804	33	10;11	1.9949008	NA	inNode34	3	1.9	3.7	1.8	2	subtree	9	internal	3	0.7328279804	8	1;2	0.0949008	NA	inNode9
+15	tip	30	2.480190277	35		0	FALSE	P_grandiflora_Kal2	3	1.9	3.7	1.8	3	subtree	1	tip	1	0.580190277	3		0	FALSE	P_grandiflora_Kal2
+16	tip	31	2.480190277	35		0	FALSE	P_hobdyi_Kuia	3	1.9	3.7	1.8	3	subtree	2	tip	2	0.580190277	3		0	FALSE	P_hobdyi_Kuia
+35	internal	29	2.432497733	21	15;16	2.4801903	NA	inNode35	3	1.9	3.7	1.8	3	subtree	3	root	NA	1.219809723	NA	1;2	0.5801903	NA	inNode3
+17	tip	34	2.364873976	37		0	FALSE	P_hexandra_K1	3	1.9	3.7	1.8	4	subtree	1	tip	2	0.464873976	5		0	FALSE	P_hexandra_K1
+18	tip	35	2.364873976	37		0	FALSE	P_hexandra_M	3	1.9	3.7	1.8	4	subtree	2	tip	3	0.464873976	5		0	FALSE	P_hexandra_M
+19	tip	36	2.827918756	36		0	FALSE	P_hexandra_Oahu	3	1.9	3.7	1.8	4	subtree	3	tip	4	0.927918756	4		0	FALSE	P_hexandra_Oahu
+36	internal	32	2.372081244	20	37;19	2.8279188	NA	inNode36	3	1.9	3.7	1.8	4	subtree	4	root	NA	0.8720812438	NA	5;3	0.9279188	NA	inNode4
+37	internal	33	0.4630447802	36	17;18	2.364874	NA	inNode37	3	1.9	3.7	1.8	4	subtree	5	internal	1	0.4630447802	4	1;2	0.464874	NA	inNode5
+23	internal	3	1.689170274	22	24;30	2.4889992	NA	inNode23	4	3.7	5.1	1.4	1	subtree	1	tip	2	0.478169436	5		0	FALSE	P_fauriei2,P_hathewayi_1,P_hawaiiensis_WaikamoiL1,P_kaduana_PuuKukuiAS,P_mauiensis_Eke,P_mauiensis_PepeAS,P_greenwelliae07,P_greenwelliae907,P_kaduana_HawaiiLoa
+31	internal	20	0.732916959	22	32;14	3.4452525	NA	inNode31	4	3.7	5.1	1.4	1	subtree	2	tip	3	0.478169436	5		0	FALSE	P_hawaiiensis_Makaopuhi,P_mariniana_Kokee2,P_mariniana_MauiNui,P_mariniana_Oahu,P_wawraeDL7428
+35	internal	29	2.432497733	21	15;16	2.4801903	NA	inNode35	4	3.7	5.1	1.4	1	subtree	3	tip	4	1.21268801	4		0	FALSE	P_grandiflora_Kal2,P_hobdyi_Kuia
+21	internal	1	0.2873119899	20	22;35	4.912688	NA	inNode21	4	3.7	5.1	1.4	1	subtree	4	root	NA	0.1873119897	NA	5;3	1.212688	NA	inNode4
+22	internal	2	0.7345185743	21	23;31	4.1781694	NA	inNode22	4	3.7	5.1	1.4	1	subtree	5	internal	1	0.7345185743	4	1;2	0.4781694	NA	inNode5
+36	internal	32	2.372081244	20	37;19	2.8279188	NA	inNode36	4	3.7	5.1	1.4	2	subbranch	4	tip	6	1.5	5		0	FALSE	P_hexandra_K1,P_hexandra_M,P_hexandra_Oahu
+21	internal	1	0.2873119899	20	22;35	4.912688	NA	inNode21	5	5.1	10	4.9	1	subtree	1	tip	1	0.0999999999000005	3		0	FALSE	P_fauriei2,P_hathewayi_1,P_hawaiiensis_WaikamoiL1,P_kaduana_PuuKukuiAS,P_mauiensis_Eke,P_mauiensis_PepeAS,P_greenwelliae07,P_greenwelliae907,P_kaduana_HawaiiLoa,P_grandiflora_Kal2,P_hobdyi_Kuia,P_hawaiiensis_Makaopuhi,P_mariniana_Kokee2,P_mariniana_MauiNui,P_mariniana_Oahu,P_wawraeDL7428
+36	internal	32	2.372081244	20	37;19	2.8279188	NA	inNode36	5	5.1	10	4.9	1	subtree	2	tip	2	0.1	3		0	FALSE	P_hexandra_K1,P_hexandra_M,P_hexandra_Oahu
+20	root	NA	NA	NA	21;36	5.2	NA	inNode20	5	5.1	10	4.9	1	subtree	3	root	NA	NA	NA	1;2	0.1	NA	inNode3

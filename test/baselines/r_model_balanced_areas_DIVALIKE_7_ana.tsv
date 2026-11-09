@@ -1,0 +1,11 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	10	internal	5	1	8	3	1	NA	inNode10	2	0.5	1.50015	1.00015	2	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	3	3	NA	NA	3	3	sympatry (y)	B->B,B		3	1	0.50015	3	7	B	BC	1.41365557065719	0.086494429342809	d	B->BC	3	-	C	-
+1						4															2																											
+2	10	internal	5	1	8	3	1	NA	inNode10	2	0.5	1.50015	1.00015	2	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	3	3	NA	NA	3	3	sympatry (y)	B->B,B		3	1	0.50015	7	3	BC	B	1.06589397574739	0.434256024252607	e	BC->B	NA	3	-	C
+2						4															2																											
+3	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	2	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	2	6	A	AC	1.46347058029959	0.0366794197004065	d	A->AC	3	-	C	-
+4	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	2	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	6	4	AC	C	1.38283233503046	0.117317664969536	e	AC->C	NA	1	-	A
+5	8	internal	1	1	7	9	2	NA	inNode8	3	1.50015	2.5	0.99985	1	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	5	2	1	2	2	3	vicariance (v)	AB->A,B		3	3	0.5	2	5	A	AB	2.32565282844007	0.17434717155993	d	A->AB	2	-	B	-
+5						10															2																											
+6	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	6	2	NA	NA	4	2	vicariance (v)	AC->C,A		3	1	0.5	2	6	A	AC	2.35596527531743	0.14403472468257	d	A->AC	3	-	C	-
+6						6															2																											

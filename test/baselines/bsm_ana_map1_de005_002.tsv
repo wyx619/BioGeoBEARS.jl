@@ -1,0 +1,2 @@
+node	trynum	event_time	abs_event_time	event_type	from_range	to_range	dispersal_from	dispersal_to	extirpation_from
+3	2	0.249679324945909	1.7503206750540901	d	A	AB	A	B	-

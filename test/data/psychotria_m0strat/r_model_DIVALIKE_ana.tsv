@@ -1,0 +1,15 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	12	tip	26	2.726839034	33		0.0008898	FALSE	P_mariniana_Oahu	1	0	0.5	0.5	12	subbranch	12	tip	26	2.726839034	33		0.0008898	FALSE	P_mariniana_Oahu	3	10	NA	NA	NA	NA	NA	NA	NA	12	42	0.5	10	3	OH	O	0.0453794267727018	0.455510373227298	e	OH->O	NA	4	-	H
+2	26	internal	6	0.1767115552	25	27	1.6752006	NA	inNode26	2	0.5	1.9	1.4	1	subtree	8	internal	1	0.1767115552	7	9	1.1752006	NA	inNode8	9	3	9	10	4	3	vicariance (v)	OM->M,O		8	29	0.1767115552	3	9	O	OM	1.75721582900259	0.0946963261974084	d	O->OM	3	-	M	-
+2						28															10																											
+3	12	tip	26	2.726839034	33		0.0008898	FALSE	P_mariniana_Oahu	2	0.5	1.9	1.4	6	subbranch	12	tip	26	2.227728834	33		0	FALSE	P_mariniana_Oahu	10	5	NA	NA	NA	NA	NA	NA	NA	18	12	1.4	5	10	H	OH	1.66536929340864	0.234630706591363	d	H->OH	2	-	O	-
+4	25	internal	5	0.3347375986	24	26	1.8519122	NA	inNode25	3	1.9	3.7	1.8	1	subtree	1	tip	2	0.2866497838802	5		0	FALSE	P_fauriei2,P_hathewayi_1,P_hawaiiensis_WaikamoiL1,P_kaduana_PuuKukuiAS,P_mauiensis_Eke,P_mauiensis_PepeAS	9	3	NA	NA	NA	NA				1	27	0.2866497838802	3	9	O	OM	1.97769659356295	0.208953190317253	d	O->OM	3	-	M	-
+4						29																																										
+5	23	internal	3	1.689170274	22	24	2.4889992	NA	inNode23	3	1.9	3.7	1.8	1	subtree	4	root	NA	1.211000825	NA	5	0.5889992	NA	inNode4	6	2	5	3	3	2	vicariance (v)	KO->O,K		4	17	1.2110008	2	6	K	KO	3.57445270774457	0.125547292255429	d	K->KO	2	-	O	-
+5						30															3																											
+6	32	internal	21	0.4601084855	31	33	2.985144	NA	inNode32	3	1.9	3.7	1.8	2	subtree	7	internal	1	0.4601084855	6	8	1.085144	NA	inNode7	8	2	8	4	5	2	vicariance (v)	KH->H,K		7	11	0.4601084855	2	8	K	KH	3.29846891929274	0.146783566207265	d	K->KH	4	-	H	-
+6						13															4																											
+7	34	internal	23	0.7328279804	33	10	1.9949008	NA	inNode34	3	1.9	3.7	1.8	2	subtree	9	internal	3	0.7328279804	8	1	0.0949009	NA	inNode9	11	5	1	2	4	5	vicariance (v)	MH->M,H		9	15	0.7328279804	5	11	H	MH	1.99774336209375	0.729985518306247	d	H->MH	3	-	M	-
+7						11															2																											
+8	36	internal	32	2.372081244	20	37	2.8279188	NA	inNode36	4	3.7	5.1	1.4	2	subbranch	4	tip	6	1.500000035	5		0	FALSE	P_hexandra_K1,P_hexandra_M,P_hexandra_Oahu	6	3	NA	NA	NA	NA	NA	NA	NA	6	47	1.4	3	6	O	KO	4.88948660634648	0.210513393653519	d	O->KO	1	-	K	-
+8						19																																										

@@ -1,0 +1,29 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	9	internal	2	1	8	1	1	NA	inNode9	2	0.5	1.50015	1.00015	1	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	2	8	1	2	2	2	sympatry (y)	A->A,A		3	21	0.50015	8	6	ABC	AC	1.33369891070032	0.166451089299675	e	ABC->AC	NA	2	-	B
+1						2															2																											
+2	9	internal	2	1	8	1	1	NA	inNode9	2	0.5	1.50015	1.00015	1	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	2	8	1	2	2	2	sympatry (y)	A->A,A		3	21	0.50015	6	2	AC	A	1.2064435325852	0.293706467414804	e	AC->A	NA	3	-	C
+2						2															2																											
+3	10	internal	5	1	8	3	1	NA	inNode10	2	0.5	1.50015	1.00015	2	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	3	3	NA	NA	3	3	sympatry (y)	B->B,B		3	4	0.50015	3	7	B	BC	1.20803655675772	0.29211344324228	d	B->BC	3	-	C	-
+3						4															2																											
+4	10	internal	5	1	8	3	1	NA	inNode10	2	0.5	1.50015	1.00015	2	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	3	3	NA	NA	3	3	sympatry (y)	B->B,B		3	4	0.50015	7	3	BC	B	1.05937206889816	0.440777931101843	e	BC->B	NA	3	-	C
+4						4															2																											
+5	5	tip	9	2	11		0	FALSE	e	2	0.5	1.50015	1.00015	3	subbranch	5	tip	9	1.5	11		0	FALSE	e	4	7	NA	NA	NA	NA	NA	NA	NA	7	3	1.00015	7	4	BC	C	1.4944929563066	0.00565704369340065	e	BC->C	NA	2	-	B
+6	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	4	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	4	7	C	BC	0.89731221802706	0.60283778197294	d	C->BC	2	-	B	-
+7	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	4	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	7	4	BC	C	0.763755051985646	0.736394948014354	e	BC->C	NA	2	-	B
+8	9	internal	2	1	8	1	1	NA	inNode9	3	1.50015	2.5	0.99985	1	subtree	1	tip	1	0.49985	3		0	FALSE	a,b	8	6	NA	NA	NA	NA				1	1	0.49985	6	8	AC	ABC	1.95457406799438	0.0454259320056173	d	AC->ABC	2	-	B	-
+8						2																																										
+9	8	internal	1	1	7	9	2	NA	inNode8	3	1.50015	2.5	0.99985	1	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	8	5	1	2	6	3	vicariance (v)	ABC->AC,B		3	2	0.5	5	8	AB	ABC	2.22124441792354	0.278755582076461	d	AB->ABC	3	-	C	-
+9						10															2																											
+10	5	tip	9	2	11		0	FALSE	e	3	1.50015	2.5	0.99985	2	subtree	1	tip	1	0.49985	3		0	FALSE	e	7	3	NA	NA	NA	NA				1	5	0.49985	3	7	B	BC	1.84579853531671	0.154201464683293	d	B->BC	3	-	C	-
+11	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	5	NA	NA	3	4	vicariance (v)	BC->B,C		3	40	0.5	5	8	AB	ABC	2.19499086542752	0.305009134572479	d	AB->ABC	3	-	C	-
+11						6															2																											
+12	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	5	NA	NA	3	4	vicariance (v)	BC->B,C		3	40	0.5	8	7	ABC	BC	2.12888759440099	0.371112405599013	e	ABC->BC	NA	1	-	A
+12						6															2																											
+13	8	internal	1	1	7	9	2	NA	inNode8	4	2.5	6	3.5	1	subtree	1	tip	1	0.5	3		0	FALSE	a,b,c,d	5	3	NA	NA	NA	NA				1	9	0.5	3	5	B	AB	2.91690461915599	0.083095380844005	d	B->AB	1	-	A	-
+13						10																																										
+14	11	internal	8	1	7	5	2	NA	inNode11	4	2.5	6	3.5	1	subtree	2	tip	2	0.5	3		0	FALSE	e,f	5	3	NA	NA	NA	NA				2	7	0.5	3	5	B	AB	2.99968521636323	0.000314783636769736	d	B->AB	1	-	A	-
+14						6																																										
+15	11	internal	8	1	7	5	2	NA	inNode11	4	2.5	6	3.5	1	subtree	2	tip	2	0.5	3		0	FALSE	e,f	5	3	NA	NA	NA	NA				2	7	0.5	5	3	AB	B	2.95543245193957	0.0445675480604248	e	AB->B	NA	1	-	A
+15						6																																										
+16	11	internal	8	1	7	5	2	NA	inNode11	4	2.5	6	3.5	1	subtree	2	tip	2	0.5	3		0	FALSE	e,f	5	3	NA	NA	NA	NA				2	7	0.5	3	5	B	AB	2.81950798673005	0.180492013269953	d	B->AB	1	-	A	-
+16						6																																										

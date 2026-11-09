@@ -1,0 +1,6 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	5	tip	9	2	11		0	FALSE	e	2	0.5	1.50015	1.00015	2	subbranch	5	tip	9	1.5	11		0	FALSE	e	4	6	NA	NA	NA	NA	NA	NA	NA	8	5	1.00015	6	4	AC	C	1.34349640904	0.156653590960002	e	AC->C	NA	1	-	A
+2	8	internal	1	1.4999	7	9	1.5001	NA	inNode8	3	1.50015	2.5	0.99985	1	subbranch	1	tip	1	1.49985	4		0	FALSE	a,b,c,d	5	2	NA	NA	NA	NA	NA	NA	NA	1	1	0.99985	2	5	A	AB	1.94297428045916	0.557025719540837	d	A->AB	2	-	B	-
+2						10																																										
+3	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	6	2	1	2	6	4	subset (s)	AC->AC,C		3	2	0.5	2	6	A	AC	2.26828764507237	0.231712354927626	d	A->AC	3	-	C	-
+3						6															2																											

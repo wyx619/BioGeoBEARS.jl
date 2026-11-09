@@ -1,0 +1,3 @@
+node	time_bp	event_type	event_txt	dispersal_from	dispersal_to
+4	2	vicariance (v)	AB->A,B		
+5	1	sympatry (y)	C->C,C		

@@ -1,0 +1,27 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	10	internal	5	1	8	3	1	NA	inNode10	2	0.5	1.50015	1.00015	2	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	3	5	NA	NA	3	3	sympatry (y)	B->B,B		3	4	0.50015	5	3	AB	B	1.17269063233523	0.327459367664774	e	AB->B	NA	1	-	A
+1						4															2																											
+2	5	tip	9	2	11		0	FALSE	e	2	0.5	1.50015	1.00015	3	subbranch	5	tip	9	1.5	11		0	FALSE	e	4	7	NA	NA	NA	NA	NA	NA	NA	7	3	1.00015	7	4	BC	C	1.4944929563066	0.00565704369340065	e	BC->C	NA	2	-	B
+3	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	4	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	4	7	C	BC	0.89731221802706	0.60283778197294	d	C->BC	2	-	B	-
+4	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	4	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	7	4	BC	C	0.763755051985646	0.736394948014354	e	BC->C	NA	2	-	B
+5	10	internal	5	1	8	3	1	NA	inNode10	3	1.50015	2.5	0.99985	1	subtree	2	tip	2	0.49985	3		0	FALSE	c,d	5	2	NA	NA	NA	NA				2	3	0.49985	2	5	A	AB	1.92265579570554	0.0773442042944628	d	A->AB	2	-	B	-
+5						4																																										
+6	10	internal	5	1	8	3	1	NA	inNode10	3	1.50015	2.5	0.99985	1	subtree	2	tip	2	0.49985	3		0	FALSE	c,d	5	2	NA	NA	NA	NA				2	3	0.49985	5	2	AB	A	1.82095837413557	0.179041625864426	e	AB->A	NA	2	-	B
+6						4																																										
+7	10	internal	5	1	8	3	1	NA	inNode10	3	1.50015	2.5	0.99985	1	subtree	2	tip	2	0.49985	3		0	FALSE	c,d	5	2	NA	NA	NA	NA				2	3	0.49985	2	5	A	AB	1.57745400760931	0.422545992390685	d	A->AB	2	-	B	-
+7						4																																										
+8	8	internal	1	1	7	9	2	NA	inNode8	3	1.50015	2.5	0.99985	1	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	2	5	1	2	2	2	sympatry (y)	A->A,A		3	3	0.5	5	2	AB	A	2.01364370660188	0.486356293398116	e	AB->A	NA	2	-	B
+8						10															2																											
+9	5	tip	9	2	11		0	FALSE	e	3	1.50015	2.5	0.99985	2	subtree	1	tip	1	0.49985	3		0	FALSE	e	7	3	NA	NA	NA	NA				1	5	0.49985	3	7	B	BC	1.84579853531671	0.154201464683293	d	B->BC	3	-	C	-
+10	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	5	NA	NA	3	4	vicariance (v)	BC->B,C		3	40	0.5	5	8	AB	ABC	2.19499086542752	0.305009134572479	d	AB->ABC	3	-	C	-
+10						6															2																											
+11	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	5	NA	NA	3	4	vicariance (v)	BC->B,C		3	40	0.5	8	7	ABC	BC	2.12888759440099	0.371112405599013	e	ABC->BC	NA	1	-	A
+11						6															2																											
+12	8	internal	1	1	7	9	2	NA	inNode8	4	2.5	6	3.5	1	subtree	1	tip	1	0.5	3		0	FALSE	a,b,c,d	5	3	NA	NA	NA	NA				1	9	0.5	3	5	B	AB	2.91690461915599	0.083095380844005	d	B->AB	1	-	A	-
+12						10																																										
+13	11	internal	8	1	7	5	2	NA	inNode11	4	2.5	6	3.5	1	subtree	2	tip	2	0.5	3		0	FALSE	e,f	5	3	NA	NA	NA	NA				2	7	0.5	3	5	B	AB	2.99968521636323	0.000314783636769736	d	B->AB	1	-	A	-
+13						6																																										
+14	11	internal	8	1	7	5	2	NA	inNode11	4	2.5	6	3.5	1	subtree	2	tip	2	0.5	3		0	FALSE	e,f	5	3	NA	NA	NA	NA				2	7	0.5	5	3	AB	B	2.95543245193957	0.0445675480604248	e	AB->B	NA	1	-	A
+14						6																																										
+15	11	internal	8	1	7	5	2	NA	inNode11	4	2.5	6	3.5	1	subtree	2	tip	2	0.5	3		0	FALSE	e,f	5	3	NA	NA	NA	NA				2	7	0.5	3	5	B	AB	2.81950798673005	0.180492013269953	d	B->AB	1	-	A	-
+15						6																																										

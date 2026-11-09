@@ -1,0 +1,24 @@
+node	stratum	piececlass	sampled_states_AT_nodes	clado_event_txt
+1	1	subbranch	2	NA
+2	1	subbranch	2	NA
+3	1	subbranch	3	NA
+4	1	subbranch	3	NA
+5	1	subbranch	4	NA
+6	1	subbranch	4	NA
+1	2	subtree	2	
+2	2	subtree	2	
+9	2	subtree	2	A->A,A
+3	2	subtree	3	
+4	2	subtree	3	
+10	2	subtree	3	B->B,B
+5	2	subbranch	7	NA
+6	2	subbranch	4	NA
+9	3	subtree	5	
+10	3	subtree	7	
+8	3	subtree	8	ABC->ABC,ABC
+5	3	subtree	4	
+6	3	subtree	4	
+11	3	subtree	6	AC->AC,AC
+8	4	subtree	5	
+11	4	subtree	5	
+7	4	subtree	5	AB->AB,AB

@@ -1,0 +1,76 @@
+node	stratum	piecenum	piececlass	sampled_states_AT_nodes	sampled_states_AT_brbots	clado_event_type	clado_event_txt
+1	1	1	subbranch	4	4	NA	NA
+2	1	2	subbranch	4	4	NA	NA
+3	1	3	subbranch	3	3	NA	NA
+4	1	4	subbranch	3	9	NA	NA
+5	1	5	subbranch	4	4	NA	NA
+6	1	6	subbranch	4	4	NA	NA
+7	1	7	subbranch	3	3	NA	NA
+8	1	8	subbranch	2	2	NA	NA
+9	1	9	subbranch	2	2	NA	NA
+10	1	10	subbranch	4	4	NA	NA
+11	1	11	subbranch	5	5	NA	NA
+12	1	12	subbranch	3	12	NA	NA
+13	1	13	subbranch	2	2	NA	NA
+14	1	14	subbranch	2	2	NA	NA
+15	1	15	subbranch	2	2	NA	NA
+16	1	16	subbranch	2	2	NA	NA
+17	1	17	subbranch	2	2	NA	NA
+18	1	18	subbranch	2	8	NA	NA
+19	1	19	subbranch	3	3	NA	NA
+1	2	1	subtree	4	4		
+2	2	1	subtree	4	4		
+3	2	1	subtree	3	9		
+4	2	1	subtree	9	9		
+5	2	1	subtree	4	4		
+6	2	1	subtree	4	4		
+25	2	1	subtree	4	4	sympatry (y)	M->M,M
+26	2	1	subtree	4	4	sympatry (y)	M->M,M
+27	2	1	subtree	4	4	sympatry (y)	M->M,M
+28	2	1	subtree	9	4	sympatry (y)	OM->OM,OM
+29	2	1	subtree	4	4	sympatry (y)	M->M,M
+7	2	2	subbranch	3	4	NA	NA
+8	2	3	subtree	2	2		
+9	2	3	subtree	2	2		
+30	2	3	subtree	2	2	sympatry (y)	K->K,K
+10	2	4	subbranch	4	2	NA	NA
+11	2	5	subbranch	5	2	NA	NA
+12	2	6	subbranch	12	7	NA	NA
+13	2	7	subbranch	2	2	NA	NA
+14	2	8	subbranch	2	2	NA	NA
+15	2	9	subbranch	2	2	NA	NA
+16	2	10	subbranch	2	2	NA	NA
+17	2	11	subbranch	2	2	NA	NA
+18	2	12	subbranch	8	2	NA	NA
+19	2	13	subbranch	3	7	NA	NA
+25	3	1	subtree	4	4		
+7	3	1	subtree	4	4		
+30	3	1	subtree	2	2		
+23	3	1	subtree	2	2	sympatry (y)	K->K,K
+24	3	1	subtree	4	2	sympatry (y)	M->M,M
+10	3	2	subtree	2	2		
+11	3	2	subtree	2	2		
+12	3	2	subtree	7	2		
+13	3	2	subtree	2	2		
+14	3	2	subtree	2	2		
+31	3	2	subtree	2	2	sympatry (y)	K->K,K
+32	3	2	subtree	2	2	sympatry (y)	K->K,K
+33	3	2	subtree	2	2	sympatry (y)	K->K,K
+34	3	2	subtree	2	2	sympatry (y)	K->K,K
+15	3	3	subtree	2	2		
+16	3	3	subtree	2	2		
+35	3	3	subtree	2	2	sympatry (y)	K->K,K
+17	3	4	subtree	2	2		
+18	3	4	subtree	2	2		
+19	3	4	subtree	7	2		
+36	3	4	subtree	2	8	sympatry (y)	K->K,K
+37	3	4	subtree	2	2	sympatry (y)	K->K,K
+23	4	1	subtree	2	2		
+31	4	1	subtree	2	2		
+35	4	1	subtree	2	2		
+21	4	1	subtree	2	8	sympatry (y)	K->K,K
+22	4	1	subtree	2	2	sympatry (y)	K->K,K
+36	4	2	subbranch	8	8	NA	NA
+21	5	1	subtree	8	8		
+36	5	1	subtree	8	8		
+20	5	1	subtree	8	NA	sympatry (y)	KH->KH,KH

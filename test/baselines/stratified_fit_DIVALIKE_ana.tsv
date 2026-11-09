@@ -1,0 +1,7 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	7	NA	NA	NA	NA	NA	NA	NA	8	8	1.00015	7	4	BC	C	1.2156248579696	0.284525142030397	e	BC->C	NA	2	-	B
+2	8	internal	1	1	7	9	2	NA	inNode8	3	1.50015	2.5	0.99985	1	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	5	3	1	2	2	3	vicariance (v)	AB->A,B		3	8	0.5	3	5	B	AB	2.13397018535546	0.366029814644544	d	B->AB	1	-	A	-
+2						10															2																											
+3	6	tip	10	2	11		0	FALSE	f	3	1.50015	2.5	0.99985	2	subtree	2	tip	2	0.49985	3		0	FALSE	f	7	3	NA	NA	NA	NA				2	19	0.49985	3	7	B	BC	1.94154889751354	0.0584511024864639	d	B->BC	3	-	C	-
+4	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	3	NA	NA	4	3	vicariance (v)	BC->C,B		3	5	0.5	3	7	B	BC	2.28551429395362	0.214485706046382	d	B->BC	3	-	C	-
+4						6															2																											

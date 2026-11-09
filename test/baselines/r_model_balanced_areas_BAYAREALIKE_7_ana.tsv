@@ -1,0 +1,11 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	10	internal	5	1	8	3	1	NA	inNode10	2	0.5	1.50015	1.00015	2	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	3	5	NA	NA	3	3	sympatry (y)	B->B,B		3	35	0.50015	5	3	AB	B	1.20542679123126	0.294723208768737	e	AB->B	-	1	-	A
+1						4															2																											
+2	5	tip	9	2	11		0	FALSE	e	2	0.5	1.50015	1.00015	3	subbranch	5	tip	9	1.5	11		0	FALSE	e	4	6	NA	NA	NA	NA	NA	NA	NA	7	9	1.00015	6	4	AC	C	1.08240710114808	0.417742898851915	e	AC->C	-	1	-	A
+3	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	6	NA	NA	NA	NA	NA	NA	NA	8	1	1.00015	6	4	AC	C	0.64222559982267	0.85792440017733	e	AC->C	-	1	-	A
+4	9	internal	2	1	8	1	1	NA	inNode9	3	1.50015	2.5	0.99985	1	subtree	1	tip	1	0.49985	3		0	FALSE	a,b	2	5	NA	NA	NA	NA				1	76	0.49985	5	2	AB	A	1.66089871557929	0.339101284420713	e	AB->A	-	2	-	B
+4						2																																										
+5	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	6	5	NA	NA	6	6	sympatry (y)	AC->AC,AC		3	2	0.5	5	2	AB	A	2.12874768380085	0.371252316199151	e	AB->A	-	2	-	B
+5						6															2																											
+6	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	6	5	NA	NA	6	6	sympatry (y)	AC->AC,AC		3	2	0.5	2	6	A	AC	2.08496467661122	0.415035323388783	d	A->AC	3	NA	C	-
+6						6															2																											

@@ -1,0 +1,25 @@
+Manifest.toml
+LocalPreferences.toml
+
+# Julia build/coverage artifacts
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/docs/
+/deps/build.log
+/deps/deps.jl
+
+# Local reference material
+/reference/
+/temp/
+
+# Local functional-alignment validation workspace
+/validation/
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local examples
+/examples/

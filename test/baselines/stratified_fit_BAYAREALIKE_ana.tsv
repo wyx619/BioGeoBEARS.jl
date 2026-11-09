@@ -1,0 +1,13 @@
+row	node	node.type	parent_br	edge.length	ancestor	daughter_nds	time_bp	fossils	label	stratum	time_top	time_bot	reltimept	piecenum	piececlass	SUBnode	SUBnode.type	SUBparent_br	SUBedge.length	SUBancestor	SUBdaughter_nds	SUBtime_bp	SUBfossils	SUBlabel	sampled_states_AT_nodes	sampled_states_AT_brbots	left_desc_nodes	right_desc_nodes	samp_LEFT_dcorner	samp_RIGHT_dcorner	clado_event_type	clado_event_txt	clado_dispersal_to	nodenum_at_top_of_branch	trynum	brlen	current_rangenum_1based	new_rangenum_1based	current_rangetxt	new_rangetxt	abs_event_time	event_time	event_type	event_txt	new_area_num_1based	lost_area_num_1based	dispersal_to	extirpation_from
+1	5	tip	9	2	11		0	FALSE	e	1	0	0.5	0.5	5	subbranch	5	tip	9	2	11		0	FALSE	e	4	6	NA	NA	NA	NA	NA	NA	NA	5	8	0.5	6	4	AC	C	0.0905236552614326	0.409476344738567	e	AC->C	-	1	-	A
+2	9	internal	2	1	8	1	1	NA	inNode9	2	0.5	1.50015	1.00015	1	subtree	3	root	NA	0.50015	NA	1	0.5	NA	inNode3	2	5	1	2	2	2	sympatry (y)	A->A,A		3	13	0.50015	5	2	AB	A	1.47340336811348	0.0267466318865173	e	AB->A	-	2	-	B
+2						2															2																											
+3	5	tip	9	2	11		0	FALSE	e	2	0.5	1.50015	1.00015	3	subbranch	5	tip	9	1.5	11		0	FALSE	e	6	7	NA	NA	NA	NA	NA	NA	NA	7	55	1.00015	7	8	BC	ABC	0.955108818063694	0.545041181936306	d	BC->ABC	1	NA	A	-
+4	5	tip	9	2	11		0	FALSE	e	2	0.5	1.50015	1.00015	3	subbranch	5	tip	9	1.5	11		0	FALSE	e	6	7	NA	NA	NA	NA	NA	NA	NA	7	55	1.00015	8	6	ABC	AC	0.594010528723266	0.906139471276734	e	ABC->AC	-	2	-	B
+5	6	tip	10	2	11		0	FALSE	f	2	0.5	1.50015	1.00015	4	subbranch	6	tip	10	1.5	11		0	FALSE	f	4	7	NA	NA	NA	NA	NA	NA	NA	8	2	1.00015	7	4	BC	C	1.49051902065986	0.00963097934013552	e	BC->C	-	2	-	B
+6	10	internal	5	1	8	3	1	NA	inNode10	3	1.50015	2.5	0.99985	1	subtree	2	tip	2	0.49985	3		0	FALSE	c,d	3	5	NA	NA	NA	NA				2	1	0.49985	5	3	AB	B	1.77813405267832	0.221865947321676	e	AB->B	-	1	-	A
+6						4																																										
+7	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	5	NA	NA	7	7	sympatry (y)	BC->BC,BC		3	13	0.5	5	8	AB	ABC	2.30750037457202	0.192499625427978	d	AB->ABC	3	NA	C	-
+7						6															2																											
+8	11	internal	8	1	7	5	2	NA	inNode11	3	1.50015	2.5	0.99985	2	subtree	3	root	NA	0.5	NA	1	0.49985	NA	inNode3	7	5	NA	NA	7	7	sympatry (y)	BC->BC,BC		3	13	0.5	8	7	ABC	BC	2.13220859417541	0.367791405824589	e	ABC->BC	-	1	-	A
+8						6															2																											
